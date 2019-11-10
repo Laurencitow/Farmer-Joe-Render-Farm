@@ -8,7 +8,7 @@ This new version for Blender 2.8x was born out of frustration that there weren't
 
 Features include:
 - Rendering frames (any image format blender supports)
-- using project subdirectories for textures or baked information etc.
+- Using project subdirectories for textures or baked information etc.
 - Rendering the resulting frames to an AVI JPEG, AVI RAW or FFMPEG file.
 - Rendering a single large image by splitting it into parts, rendering on separete computers and recombining them.
 - Specifying a directory in the root of the Farmerjoe share where AVIs or composite images will be rendered. Different people can have different directories.
