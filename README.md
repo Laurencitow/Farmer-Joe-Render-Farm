@@ -32,7 +32,7 @@ Rendering by parts - condition: when the start frame and the end frame are the s
 
 ![alt text](https://github.com/laurencitow/Farmer-Joe-Render-Farm/raw/master/for_readme/AddonParts.png "Farmer Joe add-on rendering parts")
 
-The 'Farmerjoe.xxx --appserver' commmand runs a webserver with useful 'retro-style' render information.
+The 'Farmerjoe.xxx --appserver' command runs a webserver with useful 'retro-style' render information.
 
 ![alt text](https://github.com/laurencitow/Farmer-Joe-Render-Farm/raw/master/for_readme/webpage.png "Farmer Joe webpage for status monitoring")
 
