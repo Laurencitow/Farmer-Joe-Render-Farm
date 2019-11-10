@@ -19,5 +19,12 @@ An example of a Farmerjoe setup.
 
 Farmerjoe works across plaforms and you can have a mixture of OSs in a Farmerjoe system. It is currently tested with Windows, Linux and OSX and will potentially work with any system that supports Blender and Perl. The software isn't really installed: you configure your network, place the Farmerjoe software in the share, place the blender software for each OS in the relevant directory, edit the Farmerjoe.conf and set the Farmerjoe software commant to be run at startup on each of the computers. And that's it, end of instructions (apart from installing the add-on in Blender on your workstation of course).
 
+You install the add-on into Blender in the usual way.
 
+Rendering by frames - set when the start frame and end frame are not equal
+
+![alt text](https://github.com/laurencitow/Farmer-Joe-Render-Farm/raw/master/for_readme/Addondetail.png "Farmerjoe add-on rendering frames")
+
+Rendering by parts - set when the start frame and the end frame are the same
+![alt text](https://github.com/laurencitow/Farmer-Joe-Render-Farm/raw/master/for_readme/AddonParts.png "Farmer Joe add-on rendering parts")
 
