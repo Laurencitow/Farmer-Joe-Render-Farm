@@ -38,3 +38,5 @@ The 'Farmerjoe.xxx --appserver' commmand runs a webserver with useful 'retro-sty
 
 
 Hope you enjoy the software and if you have any questions, in the first instance, please use the BlenderArtists thread.
+
+DISCLAIMER - Farmerjoe is free and made as best we can. We are not liable if you experience any problems while using the software or if it affects any projects you are using it for. Please read the disclaimer in the readme.pdf that comes with Farmerjoe.
