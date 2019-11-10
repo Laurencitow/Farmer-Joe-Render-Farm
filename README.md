@@ -21,13 +21,13 @@ Farmerjoe works across plaforms and you can have a mixture of OSs in a Farmerjoe
 
 You install the add-on into Blender in the usual way.
 
-Rendering by frames - set when the start frame and end frame are not equal
+Rendering by frames - condition: when the start frame and end frame are not equal
 
 
 ![alt text](https://github.com/laurencitow/Farmer-Joe-Render-Farm/raw/master/for_readme/Addondetail.png "Farmerjoe add-on rendering frames")
 
 
-Rendering by parts - set when the start frame and the end frame are the same
+Rendering by parts - condition: when the start frame and the end frame are the same
 
 ![alt text](https://github.com/laurencitow/Farmer-Joe-Render-Farm/raw/master/for_readme/AddonParts.png "Farmer Joe add-on rendering parts")
 
