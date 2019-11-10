@@ -29,8 +29,12 @@ Rendering by frames - condition: when the start frame and end frame are not equa
 
 Rendering by parts - condition: when the start frame and the end frame are the same
 
+
 ![alt text](https://github.com/laurencitow/Farmer-Joe-Render-Farm/raw/master/for_readme/AddonParts.png "Farmer Joe add-on rendering parts")
 
-The Farmerjoe.xxx --appserver commmand runs a webserver with useful 'retro-style' render information.
+The 'Farmerjoe.xxx --appserver' commmand runs a webserver with useful 'retro-style' render information.
 
 ![alt text](https://github.com/laurencitow/Farmer-Joe-Render-Farm/raw/master/for_readme/webpage.png "Farmer Joe webpage for status monitoring")
+
+
+Hope you enjoy the software and if you have any questions, in the first instance, please use the BlenderArtists thread.
