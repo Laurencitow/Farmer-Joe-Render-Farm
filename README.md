@@ -49,7 +49,7 @@ Rendering by parts - condition: when the start frame and the end frame are the s
 
 The 'Farmerjoe.xxx --appserver' command runs a webserver with useful 'retro-style' render information.
 
-![alt text](https://github.com/laurencitow/Farmer-Joe-Render-Farm/raw/master/for_readme/FJ.png "Farmer Joe webpage for status monitoring")
+![alt text](https://github.com/laurencitow/Farmer-Joe-Render-Farm/raw/master/for_readme/FJ.jpg "Farmer Joe webpage for status monitoring")
 
 
 Hope you enjoy the software and if you have any questions, in the first instance, please use the BlenderArtists thread.
