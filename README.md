@@ -14,6 +14,7 @@ Features include:
 - Rendering the resulting frames to an AVI JPEG, AVI RAW or FFMPEG file.
 - Rendering a single large image by splitting it into parts, rendering on separete computers and recombining them.
 - Specifying a directory in the root of the Farmerjoe share where AVIs or composite images will be rendered. Different people can have different directories.
+
 And in version 0.2.2
 - Render straight to AVI or FFMPEG 
 - Use camera name as prefix to jobname (useful for multi-camera files)
