@@ -1,4 +1,5 @@
 # Farmer-Joe-Render-Farm
+UPDATE! added a version of the 0.2.2  addon (0_2_2b_Rel)which has a 'make all paths relative' checkbox. Hoping to make a video of why this can be useful soon!(211114)
 UPDATE! Version 0.2.2 available.
 
 A render farm for Blender 3D which includes rendering by parts, frames and render result to AVI
