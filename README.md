@@ -8,7 +8,7 @@ A render farm for Blender 3D which includes rendering by parts, frames and rende
 Farmerjoe was a popular Blender render farm software written for Blender 3D versions 2.4x in 2006 by Mitch Hughes. It stopped working in Blender 2.5x and beyond because Blender changed, the Blender python API changed and because Python itself changed. 
 You can see the original project [here](https://github.com/lobonz/farmerjoe "lobonz farmerjoe repository")
 
-This new version for Blender 2.8x was born out of frustration that there weren't any simple render farm solutions available and also my memory of how good Farmerjoe was when I used it for my master's films in 2010/11. With help from Mitch I have got it going again, fixed some bugs, added some features and written a Blender add-on which submits jobs through the Blender interface.
+This new version for Blender 2.8, 2.9 to 3.x was born out of frustration that there weren't any simple render farm solutions available and also my memory of how good Farmerjoe was when I used it for my master's films in 2010/11. With help from Mitch I have got it going again, fixed some bugs, added some features and written a Blender add-on which submits jobs through the Blender interface.
 
 Features include:
 - Rendering frames (any image format blender supports)
